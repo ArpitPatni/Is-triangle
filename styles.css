@@ -129,6 +129,14 @@ body{
 
 /* styling hypotenuse */
 
+.hyp-heading{
+    text-align: center;
+}
+
+.calculate-hyp-btn{
+    margin-top: 1rem;
+}
+
 
 
 
