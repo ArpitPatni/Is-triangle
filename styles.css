@@ -127,6 +127,19 @@ body{
     border-radius: 1rem;
 }
 
+.styling-input{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    border-radius: 1rem;
+
+}
+
+#output{
+    text-align: center;
+}
+
 /* styling hypotenuse */
 
 .hyp-heading{
@@ -146,6 +159,7 @@ body{
 
 .area-btn{
     margin-top: 1rem;
+    margin-bottom: 0.5rem;
 }
 
 

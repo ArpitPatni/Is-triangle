@@ -1,6 +1,6 @@
 
 const sides=document.querySelectorAll(".side-input");
-const areaBtn=document.querySelector("#calculate-area");
+const areaBtn=document.querySelector(".calculate-area");
 const outputElement=document.querySelector("#output");
 
 function calculateAreaOfTriangle(a,b){
